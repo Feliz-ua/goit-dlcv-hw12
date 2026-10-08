@@ -1,5 +1,5 @@
-.venv\
-.vscode\
-\checkpoints
+/.venv/
+/.vscode/
+/checkpoints
 translation.ipynb
 best_model.pt
